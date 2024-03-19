@@ -21,7 +21,7 @@ B. Process and filter the conceptset by running `GPT_conceptset_processor.ipynb`
 C. You need to generate as many concepts as possible, with a minimum number of concepts of 10 times the number of classification categories
 
 ### 2. Train VCT 
-Train a Vision Concept Transformer Model on covid by running:  `train cbm.ipynb`
+Train a Vision Concept Transformer Model on covid by running:  `train_vct.ipynb`
 
 ### 3. Transform VCT into FVCT
 
