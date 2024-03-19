@@ -35,9 +35,11 @@ Evaluate the trained models by running `evaluate_vct.ipynb`. This measures model
 
 Interpretability while maintaining a high level of accuracy:
 
-|                   |         |          | Dataset |           |          |
-|-------------------|---------|----------|---------|-----------|----------|
-| Model             | CIFAR10 | CIFAR100 | CUB200  | Places365 | ImageNet |
-| Standard          | 88.80%  | 70.10%   | 76.70%  | 48.56%    | 76.13%   |
-| Standard (sparse) | 82.96%  | 58.34%   | **75.96%**  | 38.46%    | **74.35%**   |
-| Label-free CBM    | **86.37%** | **65.27%**   | 74.59%  | **43.71%**   | 71.98%   |
+|           Method  |HAM10000 |Covid19-ct|BloodMNIST|  OCT2017  |          
+|-------------------|---------|----------|--------- |-----------|
+|Standard(No interpretability)| CIFAR10 | CIFAR100 | CUB200   | Places365 |
+| Label-free CBM              | 88.80%  | 70.10%   | 76.70%   | 48.56%    |
+|-------------------|---------|----------|--------- |-----------|
+| FVCT                       | 82.96%  | 58.34%   | **75.96%**  | 38.46%    |
+| Label-free CBM              | **86.37%** | **65.27%**   | 74.59%  | **43.71%**   |
+| Label-free CBM              | **86.37%** | **65.27%**   | 74.59%  | **43.71%**   |
