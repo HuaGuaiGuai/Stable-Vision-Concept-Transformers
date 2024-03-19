@@ -1,0 +1,1 @@
+Please download the pre trained diffusion model of `256x256 diffusion (not class conditional): 256x256_diffusion_uncond.pt` from https://github.com/openai/guided-diffusion and put it in the same directory.
