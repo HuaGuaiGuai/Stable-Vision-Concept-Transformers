@@ -35,11 +35,11 @@ Evaluate the trained models by running `evaluate_vct.ipynb`. This measures model
 
 Interpretability while maintaining a high level of accuracy:
 
-|           Method  |HAM10000 |Covid19-ct|BloodMNIST|  OCT2017  |          
+|           Method  |HAM10000 |Covid19-CT|BloodMNIST|  OCT2017  |          
 |-------------------|---------|----------|--------- |-----------|
 |Standard(No interpretability)   | 99.13%  | 81.62%   | 97.05%   | 99.70%    |
 | Label-free CBM                 | 93.61%  | 79.75%   | 94.97%   | 97.50%    |
-| **FVCT**                       | 99.05%  | 81.37%   | 96.96%   | 99.50%    |
+| **FVCT**                       | **99.05%**  | **81.37%**   | **96.96%**   | **99.50%**    |
 | $\rho_u = 6/255$ -base         | 91.98%  | 73.09%   | 86.85%   | 93.22%    |
 | $\rho_u = 6/255$ -**FVCT**     | 98.45%  | 76.32%   | 98.32%   | 98.90%    |
 | $\rho_u = 7/255$ -base         | 90.88%  | 69.74%   | 83.56%   | 92.40%    |
