@@ -8,7 +8,7 @@
 2. Install dependencies by running `pip install -r requirements.txt`
 3. Please clone https://github.com/openai/guided-diffusion and put it in the same directory as this repo. Note that we leverage the pre trained diffusion model of `256x256 diffusion (not class conditional): 256x256_diffusion_uncond.pt`, and please put it in the `guided_diffusion/models`.  
 4. We provide pre-trained vit model pth files for the four medical datasets in the `backbone` folder for training CBMs.
-5. We provide the ham10000 and covid datasets in the `data` folder, the oct dataset needs to be downloaded at the time of use.
+5. We provide the covid dataset in the `data` folder, other datasets need to be downloaded at the time of use.
 
 
 ## Running the models
