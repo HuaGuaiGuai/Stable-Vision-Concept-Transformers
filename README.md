@@ -1,4 +1,7 @@
 # Faithful Vision Concept Transformers Models
+ We propose the Faithful Vision Concept Transformer (FVCT) framework, which uses ViT as a backbone, generates the concept layer, and fuses the concept features as well as the image features. FVCT mitigates the information leakage problem caused by CBM and maintains accuracy. We also make our model more stable by inserting a DDS plug-in. Comprehensive experiments show that FVCT can provide stable interpretations despite perturbations to the inputs, with less performance degradation than CBMs, and maintaining higher accuracy.
+![framework](https://github.com/HuaGuaiGuai/Faithful-Vision-Concept-Transformers/assets/115633787/e4409afe-47cb-45f3-890a-7dc256e7655e)
+
 
 ## Setup
 1. Install Python (3.9) and PyTorch (1.13).
