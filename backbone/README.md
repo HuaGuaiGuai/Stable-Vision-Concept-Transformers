@@ -1,1 +1,1 @@
-
+VIT pre-trained models for four medical databases are stored at https://github.com/HuaGuaiGuai/Faithful-Vision-Concept-Transformers/tree/master, including ham10000, covid19-CT, OCT2017, and BloodMNIST.
