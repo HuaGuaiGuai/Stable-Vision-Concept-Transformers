@@ -1,0 +1,18 @@
+{
+    "covid": [
+        "disease",
+        "infection",
+        "infectious agent",
+        "microorganism",
+        "pathogen",
+        "virus"
+    ],
+    "not covid": [
+        "covid",
+        "disease",
+        "infection",
+        "not disease",
+        "not virus",
+        "virus"
+    ]
+}

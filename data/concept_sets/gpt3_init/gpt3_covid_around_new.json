@@ -1,0 +1,33 @@
+{
+    "covid": [
+        "a bronchiole",
+        "alveoli",
+        "an airway",
+        "bilateral",
+        "blood vessels",
+        "consolidation",
+        "ground glass",
+        "hilar",
+        "infiltrate",
+        "mediastinal",
+        "peripheral",
+        "the alveoli",
+        "the blood vessels",
+        "the bronchi",
+        "the bronchioles",
+        "the lungs"
+    ],
+    "not covid": [
+        "clear",
+        "clear chest x-ray",
+        "healthy lungs",
+        "no infection",
+        "no inflammation",
+        "no lesions",
+        "no sign of disease",
+        "no sign of infection",
+        "no sign of inflammation",
+        "normal",
+        "the lungs are clear"
+    ]
+}

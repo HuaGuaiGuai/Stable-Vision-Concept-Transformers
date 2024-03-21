@@ -1,0 +1,32 @@
+{
+    "covid": [
+        "air trapping",
+        "areas of consolidation",
+        "bilateral ground glass opacities",
+        "diffuse lesions",
+        "multifocal lesions",
+        "nodular lesions",
+        "perivascular cuffing",
+        "pleural effusion",
+        "pneumothorax",
+        "the lungs appear to be full of fluid",
+        "the overall appearance of the lungs is much darker than usual",
+        "the presence of nodules or masses",
+        "there is an increased number of small nodules throughout the lungs"
+    ],
+    "not covid": [
+        "large, round, well-defined lungs",
+        "lungs are clear",
+        "lungs are clear and free of any shadows or opacities",
+        "no consolidation or collapse",
+        "no consolidation or filling of alveoli",
+        "no evidence of air trapping",
+        "no evidence of infection",
+        "no evidence of pneumothorax",
+        "no nodules or masses",
+        "no pleural effusion",
+        "no pneumothorax",
+        "no visible evidence of infection or inflammation",
+        "normal bronchial tree andvasculature"
+    ]
+}

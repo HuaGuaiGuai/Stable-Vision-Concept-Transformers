@@ -1,0 +1,49 @@
+{
+    "basophil": [
+        "blood cell",
+        "cell",
+        "leukocyte",
+        "organism",
+        "white blood cell"
+    ],
+    "eosinophil": [
+        "blood cell",
+        "cell",
+        "leukocyte",
+        "white blood cell"
+    ],
+    "erythroblast": [
+        "blood cell",
+        "cell",
+        "organism"
+    ],
+    "immature granulocytes(myelocytes, metamyelocytes and promyelocytes)": [
+        "blood cells",
+        "cells",
+        "granulocytes",
+        "white blood cells"
+    ],
+    "lymphocyte": [
+        "cell",
+        "living thing",
+        "organism"
+    ],
+    "monocyte": [
+        "cell",
+        "life form",
+        "organism"
+    ],
+    "neutrophil": [
+        "blood cell",
+        "cell",
+        "leukocyte",
+        "organism",
+        "white blood cell"
+    ],
+    "platelet": [
+        "blood component",
+        "body part",
+        "cell",
+        "tiny cell"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Choroidal Neovascularization": [
+        "a bright halo around the mass",
+        "a bright, hyperreflective core",
+        "a dark mass in the center of the image",
+        "a network of fine, spidery lines emanating from the mass",
+        "a round or oval lesion",
+        "a surrounding halo of hyporeflectivity",
+        "increased reflectivity at the lesion border",
+        "leakage of fluid and/or blood from the vessels",
+        "loss of normal retinal architecture",
+        "retinal thickening or edema",
+        "the presence of abnormal blood vessels in the choroid (layer of blood vessels behind the retina)"
+    ],
+    "Diabetic Macular Edema": [
+        "a blurry or distorted outer ring",
+        "a circular shape with a central dark area",
+        "a dark central area",
+        "a fuzzy or blurred appearance",
+        "a generally oval shape",
+        "a light halo around the central dark area",
+        "a small size",
+        "blurring of the central retina",
+        "darkening of the central retina",
+        "distortion of the central retina",
+        "lightening of the central retina",
+        "thickening of the central retina"
+    ],
+    "DRUSEN": [
+        "appear as small, white or yellow spots in the center of the retina",
+        "arranged in a line or cluster",
+        "can appear in early stages of age-related macular degeneration",
+        "can vary in size, shape, and number",
+        "located beneath the retina",
+        "may be a sign of early age-related macular degeneration",
+        "round, white or yellowish deposits beneath the retina",
+        "small, round, white or yellowish deposits under the retina",
+        "small, round, white or yellowish spots",
+        "typically appear in both eyes"
+    ],
+    "normal eyeball": [
+        "a dark center",
+        "a light ring around the edge",
+        "a light-colored ring around the central circle",
+        "a round shape",
+        "a round, black central circle",
+        "a series of dark and light bands in the middle",
+        "a series of dark and light bands radiating out from the central circle",
+        "the blood vessels are normal",
+        "the fovea is oval shaped",
+        "the optic nerve head is centered in the fovea",
+        "the retina is smooth and evenly pigmented",
+        "there are no cysts or lesions"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Actinic keratoses and intraepithelial carcinomae": [
+        "cancers",
+        "carcinoma",
+        "diseases",
+        "skin lesion",
+        "skin lesions"
+    ],
+    "basal cell carcinoma": [
+        "cancer",
+        "disease",
+        "illness"
+    ],
+    "benign keratosis-like lesions": [
+        "lesion",
+        "skin condition"
+    ],
+    "dermatofibroma": [
+        "benign tumor",
+        "medical condition",
+        "skin lesion"
+    ],
+    "melanocytic nevi": [
+        "lesions",
+        "medical condition",
+        "nevi",
+        "skin conditions",
+        "skin lesion"
+    ],
+    "pyogenic granulomas and hemorrhage": [
+        "condition",
+        "disease",
+        "lesion",
+        "medical conditions",
+        "pathology",
+        "skin conditions"
+    ],
+    "melanoma": [
+        "cancer",
+        "disease",
+        "illness"
+    ]
+}

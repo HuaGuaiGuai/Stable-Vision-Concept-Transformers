@@ -1,0 +1,124 @@
+A doctor
+A lesion
+Cancer
+Skin
+a biopsy
+a central depression
+a central indentation
+a central, raised area
+a change in color
+a color that is not uniform
+a crusted or ulcerated center
+a dark color
+a dermatologist
+a diameter of less than 6mm
+a firm, raised texture
+a firm, rubbery texture
+a freckle
+a growth or change in size
+a hospital
+a lab
+a large size
+a lesion with a "horn"
+a light
+a magnifying glass
+a medical textbook
+a microscope
+a mole
+a mole that bleeds or oozes
+a needle
+a patient
+a pebbly or dimpled surface
+a raised or flat appearance
+a raised, firm lesion
+a raised, pearly area of skin
+a raised, scaly surface
+a reddish patch of skin
+a rolled border
+a rough or scaly texture
+a scalpel
+a shiny bump
+a size less than 20 mm
+a size of less than 1 cm
+a skin tag
+a slide
+a slightly pink or red color
+a small, dark spot on the skin
+a small, raised bump
+a small, red or purple bump
+a small, round lesion
+a small, round or oval growth
+a small, round shape
+a smooth or crusted texture
+a smooth, dome-shaped growth
+a smooth, dome-shaped top
+a smooth, even texture
+a smooth, glossy surface
+a smooth, pearly surface
+a smooth, raised surface
+a smooth, waxy texture
+a sore that doesn't heal
+a wart
+a waxy, pearly appearance
+a well-defined border
+a wound
+abnormal cells
+an abnormal growth or lump
+an abnormal growth or mole
+an irregular shape
+an irregular, pearl-like bump
+an uneven or jagged border
+asymmetry
+benign tumor
+bleeding or oozing
+border irregularity
+bumps that grow quickly
+can occur singly or in groups
+can vary in size
+carcinoma
+carcinoma in situ
+color variegation
+condition
+disease
+elevation
+generally harmless
+infection
+inflammation
+irregular borders
+larger than 6 millimeters
+lesions
+may be itchy or painful
+may occur anywhere on the body
+medical condition
+medical equipment
+multiple colors
+nevi
+occurring in groups
+often bleed easily
+pain
+painful or itchy bumps
+pathology
+pigmented or dark areas
+pus or blood present
+raised or bumpy texture
+raised, red bumps on the skin
+red or blue color
+red or purple color
+regular border
+scaly appearance
+skin cancer
+skin condition
+skin lesions
+slightly raised
+small size
+smooth borders
+smooth edges
+symmetrical shape
+symmetry
+tender to the touch
+tenderness
+test results
+the presence of macrophages
+the presence of melanocytes
+tissue damage
+uneven borders

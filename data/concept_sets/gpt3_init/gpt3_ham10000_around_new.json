@@ -1,0 +1,83 @@
+{
+    "Actinic keratoses and intraepithelial carcinomae": [
+        "A doctor",
+        "A lesion",
+        "Cancer",
+        "Skin",
+        "a biopsy",
+        "a doctor",
+        "a lab",
+        "a lesion",
+        "a microscope",
+        "skin"
+    ],
+    "basal cell carcinoma": [
+        "a biopsy",
+        "a dermatologist",
+        "a doctor",
+        "a microscope",
+        "a mole",
+        "skin",
+        "skin cancer"
+    ],
+    "benign keratosis-like lesions": [
+        "a biopsy",
+        "a dermatologist",
+        "a doctor",
+        "a microscope",
+        "skin"
+    ],
+    "dermatofibroma": [
+        "a biopsy",
+        "a dermatologist",
+        "a freckle",
+        "a lesion",
+        "a microscope",
+        "a mole",
+        "a needle",
+        "a patient",
+        "a scalpel",
+        "a skin tag",
+        "a wart",
+        "skin",
+        "skin cancer"
+    ],
+    "melanocytic nevi": [
+        "a biopsy",
+        "a dermatologist",
+        "a doctor",
+        "a light",
+        "a magnifying glass",
+        "a microscope",
+        "a mole",
+        "a scalpel",
+        "skin"
+    ],
+    "pyogenic granulomas and hemorrhage": [
+        "a doctor",
+        "a hospital",
+        "a lab",
+        "a medical textbook",
+        "a microscope",
+        "a patient",
+        "a slide",
+        "a wound",
+        "bleeding",
+        "infection",
+        "inflammation",
+        "medical equipment",
+        "tissue damage"
+    ],
+    "melanoma": [
+        "a biopsy",
+        "a dermatologist",
+        "a doctor",
+        "a lab",
+        "a microscope",
+        "a mole",
+        "a patient",
+        "cancer",
+        "skin",
+        "test results"
+    ]
+}
