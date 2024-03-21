@@ -77,3 +77,11 @@ result of cpcs:
 | $\rho_u = 9/255$ -**FVCT**     | 0.9852  | 0.7587   | 0.8801   | 0.9354    |
 | $\rho_u = 10/255$ -base        | 0.9123  | 0.7336   | 0.7545   | 0.9145    |
 | $\rho_u = 10/255$ -**FVCT**    | 0.9836  | 0.7389   | 0.8625   | 0.9321    |
+
+## References
+
+Our code implementation is based on the following awesome material:
+
+1. https://arxiv.org/abs/2005.00928
+2. https://github.com/openai/guided-diffusion
+3. https://github.com/Trustworthy-ML-Lab/Label-free-CBM
