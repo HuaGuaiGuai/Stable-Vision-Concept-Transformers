@@ -50,7 +50,7 @@ Interpretability while maintaining a high level of accuracy:
 | $\rho_u = 10/255$ -base        | 99.70%  | 65.12%   | 75.63%   | 90.58%    |
 | $\rho_u = 10/255$ -**FVCT**    | 97.24%  | 71.65%   | 92.65%   | 98.48%    |
 
-result of cfs: 
+Result of cfs: 
 |           Method  |HAM10000 |Covid19-CT|BloodMNIST|  OCT2017  |          
 |-------------------|---------|----------|--------- |-----------|
 | $\rho_u = 6/255$ -base         | 0.3335  | 0.6022   | 0.5328   | 0.3798    |
@@ -64,7 +64,7 @@ result of cfs:
 | $\rho_u = 10/255$ -base        | 0.4027  | 0.7224   | 0.6906   | 0.4055    |
 | $\rho_u = 10/255$ -**FVCT**    | 0.1725  | 0.7096   | 0.5058   | 0.3620    |
 
-result of cpcs:
+Result of cpcs:
 |           Method  |HAM10000 |Covid19-CT|BloodMNIST|  OCT2017  |          
 |-------------------|---------|----------|--------- |-----------|       
 | $\rho_u = 6/255$ -base         | 0.9405  | 0.8117   | 0.8511   | 0.9254    |
