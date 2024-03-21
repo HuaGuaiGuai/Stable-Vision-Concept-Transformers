@@ -23,7 +23,7 @@ C. You need to generate as many concepts as possible, with a minimum number of c
 ### 2. Train VCT 
 Train a Vision Concept Transformer Model on covid by running:  `train_vct.ipynb`
 
-### 3. Evaluate FVCT
+### 3. Evaluate VCT
 
 Evaluate the trained models by running `evaluate_vct.ipynb`. This measures model accuracy, creates barplots explaining individual decisions and prints final layer weights which are the basis for creating weight visualizations.
 
