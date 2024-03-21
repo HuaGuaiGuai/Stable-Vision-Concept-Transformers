@@ -28,7 +28,7 @@ Train a Vision Concept Transformer Model on covid by running:  `train_vct.ipynb`
 Evaluate the trained models by running `evaluate_vct.ipynb`. This measures model accuracy, creates barplots explaining individual decisions and prints final layer weights which are the basis for creating weight visualizations.
 
 ### 4. Transform VCT into FVCT
-
+Convert vct to FVCT and test model performance by running `experiments.ipynb`
 
 
 
