@@ -1,0 +1,19 @@
+{
+  "lam": 7.07070707070707e-05,
+  "lr": 0.10000000149011612,
+  "alpha": 0.99,
+  "time": 25.812964916229248,
+  "metrics": {
+    "loss_tr": 0.00495300954207778,
+    "acc_tr": 1.0,
+    "loss_val": 0.1657063066959381,
+    "acc_val": 0.9695994853973389,
+    "loss_test": -1,
+    "acc_test": -1
+  },
+  "sparsity": {
+    "Non-zero weights": 2300,
+    "Total weights": 6800,
+    "Percentage non-zero": 0.3382352941176471
+  }
+}

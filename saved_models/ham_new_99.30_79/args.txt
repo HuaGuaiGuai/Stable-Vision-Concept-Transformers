@@ -1,0 +1,17 @@
+{
+  "clip_name": "ViT-B/16",
+  "backbone": "vit",
+  "device": "cuda",
+  "batch_size": "16",
+  "saga_batch_size": "256",
+  "dataset": "ham_new",
+  "concept_set": "data/concept_sets/ham10000_filtered_new.txt",
+  "feature_layer": "norm",
+  "activation_dir": "saved_activations",
+  "save_dir": "saved_models",
+  "clip_cutoff": "0.2",
+  "proj_steps": "20000",
+  "interpretability_cutoff": "0.4",
+  "lam": "0.0007",
+  "n_iters": "1000"
+}
